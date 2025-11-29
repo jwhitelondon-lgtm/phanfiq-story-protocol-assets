@@ -15,6 +15,7 @@ We have registered our submission videos as IP Assets on the Story Protocol test
 Submission Title	Genre Category	Role	Story Protocol Asset ID
 Phanfiq: The Unlicensed Data Kaiju	Commercial / Spec-Ads	Original IP	https://portal.story.foundation/assets/0x897ac8bb3261aa5AB8051920aAadEd40Aa1F42b7
 Phanfiq: IP Court Chaos	Brainrot	Derivative / Remix	https://portal.story.foundation/assets/0x7FC06Bd2efADe6661Ce9d74C36F7816050E649C6
+
 🛠 The Build & Architecture
 Phanfiq isn't just a UI; it is an interface for the Story IP Graph.
 The "Asset Graph"
