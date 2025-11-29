@@ -35,12 +35,14 @@ o	Remixing: When a fan generates a new video or story, Phanfiq automatically reg
 3.	Monetization (Royalty Module):
 o	The Royalty Module is configured to execute deterministic splits.
 o	Flow: Revenue from the derivative automatically flows upstream to the Parent IP and the Platform.
+
 🧩 Story Protocol Integration Details
 We utilize the full Story Protocol stack to ensure compliance and monetization:
 •	Proof of Creativity (PoC): Used to mint every fan creation as a traceable asset.
 •	Programmable IP License (PIL): We implement "License Shields" that protect users from DMCA risks by wrapping creations in legally binding on-chain terms.
 •	Grouping Module: Used to cluster assets into "Universes" (e.g., a specific Anime world or Brand).
 •	Dispute Module: Integrated to handle "Copyright Strikes" on-chain, resolving conflicts transparently.
+
 🚀 Future Roadmap
 •	Q1 2026: Launch "Universe Groups" allowing brands to open their IP for verified fan-fiction.
 •	Q2 2026: Integrate "Data Use Fees" where models pay micro-transactions to train on Phanfiq-registered datasets.
